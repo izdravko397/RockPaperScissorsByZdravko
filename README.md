@@ -4,7 +4,7 @@ This is a simple console game "Rock Paper Scissors".
 
 I make the console game "Rock – Paper – Scissors":
 
-<img alt="Image" width="600px" src="[https://www.teachwithict.com/uploads/5/5/8/2/5582303/published/guess-the-number.png?1611311296](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/1200px-Rock-paper-scissors.svg.png)" />
+<img alt="Image" width="600px" src="![image](https://github.com/izdravko397/RockPaperScissorsByZdravko/assets/133270937/c4e79d86-b655-4e55-ba49-359daf1811cd)" />
 
 Rock-Paper-Scissors is a simple two-player game, where you and your opponent (the computer) simultaneously
 choose one of the following three options: "rock", "paper", or "scissors". The rules are as follows:
