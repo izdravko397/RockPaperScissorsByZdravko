@@ -15,3 +15,9 @@ The winner is the player whose choice beats the choice of his opponent. If both 
 (e.g., "paper"), the game outcome is "draw".
 
 My [Source Code](rock_paper_scissors.py)
+
+## LiveDemo
+
+You can play the game directly online in your Web browser here:
+
+
