@@ -20,4 +20,4 @@ My [Source Code](rock_paper_scissors.py)
 
 You can play the game directly online in your Web browser here:
 
-
+[<img alt="Play Button" src="https://github.com/izdravko397/RockPaperScissorsByZdravko/assets/133270937/577e14c7-6a67-4503-abf3-f08d1d35f387" />](https://replit.com/@zdravkoivanov/RockPaperScissors)
